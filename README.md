@@ -1,5 +1,10 @@
 Backend Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,mongodb,redis&theme=dark" />
+</p>
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
