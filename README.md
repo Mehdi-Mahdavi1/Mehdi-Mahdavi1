@@ -1,16 +1,16 @@
-## Hi there 👋
+Backend Skills
 
-<!--
-**Mehdi-Mahdavi1/Mehdi-Mahdavi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-Here are some ideas to get you started:
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![TypeORM](https://img.shields.io/badge/TypeORM-000?style=for-the-badge&logo=typeorm)
